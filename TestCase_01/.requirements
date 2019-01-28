@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.conformiq:RequirementRepository xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.conformiq="http://www.conformiq.com/EMF/2/Requirements" lastUpdate="1545640576977">
+  <requirementGraphRoots state="UNCHANGED" identifier="com.conformiq.designer.extensions.alm-https://qc-122.conformiq.com/qcbin-DEFAULT-Alexis-Requirements\Ideabytes_Demo\easyJet-root" source="//@requirementProviders.0">
+    <name value="HP QC/ALM Requirements (Alexis:Requirements\Ideabytes_Demo\easyJet)"/>
+    <priority/>
+    <subrequirements state="UNCHANGED" identifier="com.conformiq.designer.extensions.alm-https://qc-122.conformiq.com/qcbin-DEFAULT-Alexis-requirement-92" source="//@requirementProviders.0" externalIdentifier="92">
+      <name value="Delayed Bag"/>
+      <priority/>
+    </subrequirements>
+    <subrequirements state="UNCHANGED" identifier="com.conformiq.designer.extensions.alm-https://qc-122.conformiq.com/qcbin-DEFAULT-Alexis-requirement-101" source="//@requirementProviders.0" externalIdentifier="101">
+      <name value="manage an Existing Report"/>
+      <priority/>
+    </subrequirements>
+    <subrequirements state="UNCHANGED" identifier="com.conformiq.designer.extensions.alm-https://qc-122.conformiq.com/qcbin-DEFAULT-Alexis-requirement-102" source="//@requirementProviders.0" externalIdentifier="102">
+      <name value="Forward Delayed Bag"/>
+      <priority/>
+    </subrequirements>
+  </requirementGraphRoots>
+  <requirementProviders identifier="com.conformiq.designer.extensions.alm" name="HP QC/ALM Requirements (Alexis:Requirements\Ideabytes_Demo\easyJet)">
+    <properties key="alm.project" value="Alexis"/>
+    <properties key="alm.password" value="$CQPasswordEncoding4$z72AmHSbJJ8LWgp3iWotmNNcRB5Kp1Hz+xF782vobjPsmI1LJy0ek/xbuCc6IGIZh2uIJMuFRZf2z8uoYXI8Ag=="/>
+    <properties key="alm.requirement.fields" value="rO0ABXNyABFqYXZhLnV0aWwuSGFzaE1hcAUH2sHDFmDRAwACRgAKbG9hZEZhY3RvckkACXRocmVzaG9sZHhwP0AAAAAAAAB3CAAAABAAAAAAeA=="/>
+    <properties key="alm.domain" value="DEFAULT"/>
+    <properties key="alm.username" value="siteadmin"/>
+    <properties key="alm.location" value="https://qc-122.conformiq.com/qcbin"/>
+    <properties key="alm.requirement.namingtemplate" value="${fields[&quot;Name&quot;]}"/>
+    <properties key="aml.requirement.priorities" value="rO0ABXNyABFqYXZhLnV0aWwuSGFzaE1hcAUH2sHDFmDRAwACRgAKbG9hZEZhY3RvckkACXRocmVzaG9sZHhwP0AAAAAAAAB3CAAAABAAAAAAeA=="/>
+    <properties key="alm.requirement.folder" value="rO0ABXNyABNqYXZhLnV0aWwuQXJyYXlMaXN0eIHSHZnHYZ0DAAFJAARzaXpleHAAAAADdwQAAAADdAAMUmVxdWlyZW1lbnRzdAAOSWRlYWJ5dGVzX0RlbW90AAdlYXN5SmV0eA=="/>
+  </requirementProviders>
+</com.conformiq:RequirementRepository>
