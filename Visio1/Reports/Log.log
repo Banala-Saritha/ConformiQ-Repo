@@ -1,0 +1,76 @@
+Wed Dec 26 11:50:03 IST 2018
+ INFO: Started parsing configuration excel 
+Wed Dec 26 11:50:03 IST 2018
+ INFO: shape name Start Event
+Wed Dec 26 11:50:03 IST 2018
+ INFO: shape name Task
+Wed Dec 26 11:50:03 IST 2018
+ INFO: shape name Task
+Wed Dec 26 11:50:03 IST 2018
+ INFO: shape name Gateway
+Wed Dec 26 11:50:03 IST 2018
+ INFO: shape name Task
+Wed Dec 26 11:50:03 IST 2018
+ INFO: shape name Dynamic connector
+Wed Dec 26 11:50:03 IST 2018
+ INFO: shape name Task
+Wed Dec 26 11:50:03 IST 2018
+ INFO: shape name Dynamic connector
+Wed Dec 26 11:50:03 IST 2018
+ INFO: shape name Dynamic connector
+Wed Dec 26 11:50:03 IST 2018
+ INFO: shape name Dynamic connector
+Wed Dec 26 11:50:03 IST 2018
+ INFO: shape name Dynamic connector
+Wed Dec 26 11:50:03 IST 2018
+ INFO: shape name Gateway
+Wed Dec 26 11:50:03 IST 2018
+ INFO: shape name End Event
+Wed Dec 26 11:50:03 IST 2018
+ INFO: shape name Dynamic connector
+Wed Dec 26 11:50:03 IST 2018
+ INFO: shape name Dynamic connector
+Wed Dec 26 11:50:03 IST 2018
+ INFO: shape name Sub-Process.4
+Wed Dec 26 11:50:03 IST 2018
+ INFO: shape name 
+Wed Dec 26 11:50:03 IST 2018
+ INFO: shape name End Event
+Wed Dec 26 11:50:03 IST 2018
+ INFO: shape name Dynamic connector
+Wed Dec 26 11:50:03 IST 2018
+ INFO: shape name Dynamic connector
+Wed Dec 26 11:50:03 IST 2018
+ INFO: shape name Gateway
+Wed Dec 26 11:50:03 IST 2018
+ INFO: shape name Sequence Flow
+Wed Dec 26 11:50:03 IST 2018
+ INFO: shape name Sequence Flow
+Wed Dec 26 11:50:03 IST 2018
+ INFO: shape name 
+Wed Dec 26 11:50:03 IST 2018
+ INFO: shape name Start Event
+Wed Dec 26 11:50:03 IST 2018
+ INFO: shape name Task
+Wed Dec 26 11:50:03 IST 2018
+ INFO: shape name Task
+Wed Dec 26 11:50:03 IST 2018
+ INFO: shape name Dynamic connector
+Wed Dec 26 11:50:03 IST 2018
+ INFO: shape name End Event
+Wed Dec 26 11:50:03 IST 2018
+ INFO: shape name Dynamic connector
+Wed Dec 26 11:50:03 IST 2018
+ INFO: shape name Dynamic connector
+Wed Dec 26 11:50:03 IST 2018
+ INFO: Started parsing configuration excel
+Wed Dec 26 11:50:03 IST 2018
+ INFO: Started parsing configuration excel 
+Wed Dec 26 11:50:03 IST 2018
+ INFO: START ===================================================
+ Visio file "Car Booking.vdx"Importing Wed Dec 26 11:50:03 IST 2018
+Wed Dec 26 11:50:03 IST 2018
+ WARNING: Can't import shape "_6" because shape type is undefined
+Wed Dec 26 11:50:03 IST 2018
+ INFO: END ===================================================
+ Visio file Import Finished Wed Dec 26 11:50:03 IST 2018
