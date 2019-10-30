@@ -5,7 +5,7 @@
       <scripterPropertyCategories name="Access Configuration">
         <categoryProperties key="Url" value="http://qc-122.conformiq.com/qcbin"/>
         <categoryProperties key="Username" value="siteadmin"/>
-        <categoryProperties key="Password" value="c0nf0rm1qware"/>
+        <categoryProperties key="Password" value="$CQPasswordEncoding4$ChBadG44JboV+8Aj0Zff+RIw2oxd6iOwWKuTb8FLmms="/>
         <categoryProperties key="Client ID"/>
         <categoryProperties key="API key secret"/>
         <categoryProperties key="Domain" value="DEFAULT"/>
