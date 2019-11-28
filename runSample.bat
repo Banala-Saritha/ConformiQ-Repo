@@ -1,2 +1,3 @@
-javac Test.java
-java Test
+javac C:\Users\Test\Desktop\Test.java
+java C:\Users\Test\Desktop Test
+
